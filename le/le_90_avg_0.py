@@ -23,6 +23,8 @@ def normcdf(x, mu, sigma):
         y = 1.0;
     return y
 
+
+
 # 공분산
 covariance = 9
 # 표준편차
